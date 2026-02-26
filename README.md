@@ -28,19 +28,6 @@ Install dependencies using:
 pip install requests dnspython pillow colorama certifi
 pip install pillow
 
-📦 Technologies Used
-
-Python
-
-requests
-
-dnspython
-
-pillow
-
-colorama
-
-certifi
 
 ⚠ Disclaimer
 
