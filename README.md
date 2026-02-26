@@ -28,6 +28,7 @@ Make sure you have Python 3.8+ installed.
 Install dependencies using:
 
 pip install requests dnspython pillow colorama certifi
+
 pip install pillow
 
 
